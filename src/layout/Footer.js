@@ -10,8 +10,8 @@ function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center">
       {"Copyright © "}
-      <Link color="inherit" href="https://github.com/Register-it">
-        register.it devs
+      <Link color="inherit" href="https://firenze.dev">
+        firenze<strong>.dev</strong>
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
@@ -32,7 +32,7 @@ export default function Footer(props) {
     <footer className={classes.footer}>
       <Container maxWidth="lg">
         <Typography variant="h6" align="center" gutterBottom>
-          <InternalLink to="/">GraphQL Demo Client</InternalLink>
+          <InternalLink to="/">GraphQL Demo app</InternalLink>
         </Typography>
         <Typography
           variant="subtitle1"

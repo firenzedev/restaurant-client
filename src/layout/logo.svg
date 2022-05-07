@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 270.93334 270.93334"
+   version="1.1"
+   id="svg3734"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="sorgente.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3736"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="0.45143078"
+     inkscape:cx="276.89738"
+     inkscape:cy="595.88316"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="1339"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="1024px">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3795"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3731" />
+  <g
+     id="layer2"
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     style="display:inline">
+    <path
+       id="base"
+       style="fill:#b5b5b5;fill-opacity:1;fill-rule:evenodd;stroke-width:0.950571"
+       inkscape:label="base"
+       d="m 68.355003,166.6875 v 3.95428 11.69335 9.92032 c 0,1.95937 1.600554,3.53622 3.588411,3.53622 H 197.05826 c 1.98786,0 3.58841,-1.57685 3.58841,-3.53622 v -9.92032 -11.69335 -3.95428 z m 16.933333,5.55625 a 8.9958336,8.9958336 0 0 1 8.995834,8.99584 8.9958336,8.9958336 0 0 1 -8.995834,8.99583 8.9958336,8.9958336 0 0 1 -8.995833,-8.99583 8.9958336,8.9958336 0 0 1 8.995833,-8.99584 z m 49.212504,0 a 8.9958336,8.9958336 0 0 1 8.99583,8.99584 8.9958336,8.9958336 0 0 1 -8.99583,8.99583 8.9958336,8.9958336 0 0 1 -8.99584,-8.99583 8.9958336,8.9958336 0 0 1 8.99584,-8.99584 z m 49.2125,0 a 8.9958336,8.9958336 0 0 1 8.99583,8.99584 8.9958336,8.9958336 0 0 1 -8.99583,8.99583 8.9958336,8.9958336 0 0 1 -8.99583,-8.99583 8.9958336,8.9958336 0 0 1 8.99583,-8.99584 z" />
+    <g
+       id="g875"
+       inkscape:label="mensola"
+       style="display:inline">
+      <path
+         id="rect7163-0"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.406725"
+         inkscape:label="mensola dx"
+         d="m 166.78001,156.10416 h 33.86667 v 7.9375 h -33.86667 z" />
+      <path
+         id="rect7163-7"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.538046"
+         inkscape:label="mensola cx"
+         d="m 104.8675,156.10416 h 59.26668 v 7.9375 H 104.8675 Z" />
+      <path
+         id="rect7163"
+         style="fill:#666666;fill-opacity:1;stroke-width:0.406725"
+         inkscape:label="mensola sx"
+         d="m 68.355003,156.10416 h 33.866667 v 7.9375 H 68.355003 Z" />
+    </g>
+    <g
+       id="g870"
+       inkscape:label="cupola">
+      <path
+         id="path9739-3"
+         style="fill:#ae3f25;fill-opacity:1;stroke-width:1"
+         d="m 146.30994,74.612501 a 79.375193,105.83337 0 0 1 54.33674,74.486919 v 4.35891 H 166.73661 A 81.662902,126.46059 0.106768 0 0 143.51115,74.612501 Z"
+         inkscape:label="cupola dx" />
+      <path
+         id="path9739"
+         style="fill:#ae3f25;fill-opacity:1;stroke-width:1"
+         d="M 122.69174,74.612502 A 79.375193,105.83337 0 0 0 68.355003,149.09943 v 4.35891 h 33.910077 a 126.46059,81.662902 89.893232 0 1 23.22545,-78.845838 z"
+         inkscape:label="cupola sx" />
+      <path
+         id="path10640-3"
+         style="display:inline;fill:#ae3f25;fill-opacity:1;stroke-width:1.05876"
+         d="M 128.08573,74.612502 A 126.46059,81.662902 89.893232 0 0 104.96,153.45834 h 29.54084 29.54083 A 81.662902,126.46059 0.106768 0 0 140.91595,74.612502 h -6.41511 z"
+         inkscape:label="cupola cx" />
+    </g>
+    <path
+       id="rect15915"
+       style="fill:#b5b5b5;fill-opacity:1;stroke-width:0.223024"
+       d="m 134.50084,36.247917 -7.40834,17.069242 v 3.720187 a 6.0803567,9.921875 0 0 1 0.0134,0.653706 6.0803567,9.921875 0 0 1 -4.51135,9.582362 v 4.693254 h 11.90625 11.90625 v -4.693254 a 6.0803567,9.921875 0 0 1 -4.51135,-9.582362 6.0803567,9.921875 0 0 1 0.0134,-0.653706 v -3.720187 z"
+       inkscape:label="lanterna" />
+    <circle
+       style="fill:#e6bc33;fill-opacity:1;stroke-width:0.317499"
+       id="path17962"
+       cx="134.50084"
+       cy="28.839584"
+       r="4.7625003"
+       inkscape:label="palla" />
+    <g
+       id="g865"
+       inkscape:label="parentesi">
+      <text
+         xml:space="preserve"
+         style="font-size:194.028px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;stroke-width:0.264583"
+         x="-7.7750936"
+         y="160.28598"
+         id="text3314"
+         inkscape:export-filename="C:\Tiziano\Firenze.dev\georgia.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:label="parentesi sx"><tspan
+           sodipodi:role="line"
+           id="tspan3312"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:194.028px;font-family:Arial;-inkscape-font-specification:Arial;fill:#222222;fill-opacity:1;stroke-width:0.264583"
+           x="-7.7750936"
+           y="160.28598"
+           dx="0"
+           dy="0"
+           rotate="0 0">{</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:194.028px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;display:inline;stroke-width:0.264583"
+         x="212.06952"
+         y="160.286"
+         id="text3314-2"
+         inkscape:export-filename="C:\Tiziano\Firenze.dev\georgia.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:label="parentesi dx"><tspan
+           sodipodi:role="line"
+           id="tspan3312-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:194.028px;font-family:Arial;-inkscape-font-specification:Arial;fill:#222222;fill-opacity:1;stroke-width:0.264583"
+           x="212.06952"
+           y="160.286"
+           rotate="0 0">}</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Nome"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:49.3889px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:Georgia;stroke-width:0.264583"
+       x="7.0676823"
+       y="255.63643"
+       id="text15250"
+       inkscape:label="firenze.dev"><tspan
+         sodipodi:role="line"
+         id="tspan15248"
+         style="font-size:49.3889px;stroke-width:0.264583"
+         x="7.0676823"
+         y="255.63643">firenze<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Georgia;-inkscape-font-specification:'Georgia Bold'"
+   id="tspan19464">.dev</tspan></tspan></text>
+  </g>
+</svg>

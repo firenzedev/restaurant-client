@@ -11,7 +11,7 @@ import { Link } from "react-router-dom"
 import { IconButton } from "@material-ui/core"
 import GitHubImage from "./GithubIcon.svg"
 import Footer from "./Footer"
-import Logo from "./devs-logo-light.svg"
+import Logo from "./logo.svg"
 
 export default function ({ children }) {
   const classes = useStyles()
@@ -34,7 +34,7 @@ export default function ({ children }) {
           </Typography>
           <div>
             <a
-              href="https://github.com/Register-it/react-graphql-client"
+              href="https://github.com/firenzedev/restaurant-client"
               target="_blank"
               rel="noopener noreferrer"
               title="View source code"
@@ -115,10 +115,13 @@ const useStyles = makeStyles((theme) => ({
     alignItems: "center",
     flexGrow: 1,
     color: theme.palette.primary.contrastText,
-    textDecoration: "none"
+    textDecoration: "none",
   },
   titleImage: {
-    marginRight: theme.spacing(1)
+    marginRight: theme.spacing(1),
+    borderRadius: "100%",
+    background: "white",
+    padding: theme.spacing(1)
   },
   container: {
     padding: `${theme.spacing(3)}px ${theme.spacing(1)}px`,

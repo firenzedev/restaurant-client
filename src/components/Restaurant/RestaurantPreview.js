@@ -20,6 +20,9 @@ const useStyles = makeStyles((theme) => ({
       padding: 16
     }
   },
+  title: {
+    minHeight: 60
+  },
   details: {
     display: "flex",
     flexDirection: "column"
@@ -35,11 +38,15 @@ const useStyles = makeStyles((theme) => ({
   ratings: {
     display: "flex",
     justifyContent: "flex-start",
-    alignItems: "center"
+    alignItems: "center",
+    minHeight: 50
   },
   link: {
     color: "inherit",
     textDecoration: "none"
+  },
+  description : {
+    minHeight: 60
   }
 }))
 
@@ -52,7 +59,7 @@ export default function RestaurantPreview({ restaurant }) {
       <Card className={classes.root}>
         <div className={classes.details}>
           <CardContent className={classes.content}>
-            <Typography component="h5" variant="h5">
+            <Typography component="h5" variant="h5" className={classes.title}>
               {name}
             </Typography>
             <div className={classes.ratings}>
@@ -67,7 +74,7 @@ export default function RestaurantPreview({ restaurant }) {
                 </Button>
               )}
             </div>
-            <Typography variant="subtitle1" color="textSecondary">
+            <Typography variant="body1" color="textSecondary" className={classes.description}>
               {address} - {city}
             </Typography>
           </CardContent>

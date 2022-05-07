@@ -26,6 +26,6 @@ function Home() {
 }
 
 export default withHtmlPageMetadata(
-  "GraphQL demo client - Register devs",
-  "GraphQL demo client implementation using React and Apollo, made by Register.it developers"
+  "GraphQL demo app - firenze.dev",
+  "GraphQL demo app implementation using React and Apollo, made by firenze.dev"
 )(Home)
