@@ -7,8 +7,8 @@ import { withHtmlPageMetadata } from "../HtmlPageMetadata"
 import { useRestaurants } from "../Restaurant/RestaurantApi"
 
 function Home() {
-  const { loading, restaurants, error } = useRestaurants()
-
+  const { loading, restaurants , error } = useRestaurants()
+console.log("render", restaurants)
   if (loading) {
     return <Loading />
   }
